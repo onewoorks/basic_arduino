@@ -16,5 +16,15 @@ void loop() {
   tone(8, 440, 250);
   delay(325);
   tone(8, 494, 250);
+  delay(325);
+  tone(8, 523, 250);
+  delay(325);
+  tone(8, 587, 250);
+  delay(325);
+  tone(8, 659, 250);
+  delay(325);
+  tone(8, 698, 250);
+  delay(325);
+  tone(8, 784, 250);
   delay(1000);  
 }
